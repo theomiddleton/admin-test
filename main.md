@@ -25,3 +25,9 @@ namespace run_admin2
     }
 }
 ```
+
+```
+string strCmdText;
+strCmdText = "command";
+System.Diagnostics.Process.Start("CMD.exe", strCmdText);
+```
