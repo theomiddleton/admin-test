@@ -50,7 +50,7 @@ cmd.WaitForExit();
 Console.WriteLine(cmd.StandardOutput.ReadToEnd());
 ```
 
-Other
+<h2> Other </h2>
 ```
 gpedit.msc
 ```
