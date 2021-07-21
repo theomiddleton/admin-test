@@ -54,6 +54,15 @@ Other
 ```
 gpedit.msc
 ```
+cmd
+```
+User Configuration > Administrative Templates > System
+```
+tskmgr
+```
+Configuration -> Administrative Templates -> System
+```
+
 
 win r 
 ```
