@@ -48,5 +48,10 @@ cmd.StandardInput.Flush();
 cmd.StandardInput.Close();
 cmd.WaitForExit();
 Console.WriteLine(cmd.StandardOutput.ReadToEnd());
-            
+```
+
+Other
+```
+gpedit.msc
+```
          
