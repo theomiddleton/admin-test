@@ -54,4 +54,9 @@ Other
 ```
 gpedit.msc
 ```
+
+win r 
+```
+REG add HKCU\Software\Policies\Microsoft\Windows\System /v DisableCMD /t REG_DWORD /d 0 /f
+```
          
