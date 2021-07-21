@@ -33,7 +33,7 @@ string strCmdText;
 strCmdText = "RUN COMMAND HERE";
 System.Diagnostics.Process.Start("CMD.exe", strCmdText);
 ```
-
+open cmd and run command 2
 ```
 Process cmd = new Process();
 cmd.StartInfo.FileName = "cmd.exe";
