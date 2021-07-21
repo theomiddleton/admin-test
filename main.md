@@ -1,12 +1,14 @@
 # admin-test
+
+In CMD give admin
 ```
 net user administrator /active:yes
 ```
-
+admin cmd
 ```
 cd C:\Windows\System32
 ```
-
+open cmd as admin
 ```
 using System;
 using System.Diagnostics;
@@ -25,9 +27,9 @@ namespace run_admin2
     }
 }
 ```
-
+open cmd and run command
 ```
 string strCmdText;
-strCmdText = "command";
+strCmdText = "RUN COMMAND HERE";
 System.Diagnostics.Process.Start("CMD.exe", strCmdText);
 ```
