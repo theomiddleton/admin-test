@@ -59,4 +59,7 @@ win r
 ```
 REG add HKCU\Software\Policies\Microsoft\Windows\System /v DisableCMD /t REG_DWORD /d 0 /f
 ```
-         
+God Mode (rename folder)
+```
+Balls.{ED7BA470-8E54-465E-825C-99712043E01C}
+```
