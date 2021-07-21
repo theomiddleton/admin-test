@@ -1,5 +1,7 @@
 # Admin Test
 
+<h2> Command Prompt </h2>
+
 In CMD give admin
 ```
 net user administrator /active:yes
