@@ -1,4 +1,4 @@
-# admin-test
+# Admin Test
 
 In CMD give admin
 ```
